@@ -1,0 +1,28 @@
+{
+  "name": "10.9.2",
+  "version": "1.0.0",
+  "description": "working with github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IANSEZI/githot.git"
+  },
+  "keywords": [
+    "ian",
+    "matsiko"
+  ],
+  "author": "Matsiko Ian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IANSEZI/githot/issues"
+  },
+  "homepage": "https://github.com/IANSEZI/githot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "simple-git": "^3.27.0"
+  }
+}
